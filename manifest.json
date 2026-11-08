@@ -1,0 +1,39 @@
+{
+  "updated": "08/11/2026",
+  "root": {
+    "type": "dir",
+    "name": "Halmos",
+    "path": "notes",
+    "children": [
+      {
+        "type": "dir",
+        "name": "!Home",
+        "path": "notes/!Home",
+        "children": [
+          {
+            "type": "file",
+            "title": "Welcome!",
+            "path": "notes/!Home/Welcome.md"
+          }
+        ]
+      },
+      {
+        "type": "dir",
+        "name": "Examples",
+        "path": "notes/Examples",
+        "children": [
+          {
+            "type": "file",
+            "title": "Matematica",
+            "path": "notes/Examples/01_Mathematics.md"
+          },
+          {
+            "type": "file",
+            "title": "Informatica",
+            "path": "notes/Examples/02_CS.md"
+          }
+        ]
+      }
+    ]
+  }
+}
